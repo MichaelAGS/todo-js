@@ -1,0 +1,5 @@
+# gitignore -> permite ignorar aquellas carpetas o archivos que no quieres subir github
+
+node_modules/
+
+dist/
